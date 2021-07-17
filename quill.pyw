@@ -37,6 +37,7 @@ window = tkinter.Tk()
 window.title("Tax Return for Individuals (Demo) - Quill")
 window.geometry("800x600")
 window.configure(bg = Styles.cMainBackground)
+window.iconbitmap('favicon.ico')
 
 def draw(content):
     for widget in window.winfo_children():
