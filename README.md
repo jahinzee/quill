@@ -1,2 +1,2 @@
-# quill
- Submission for CSESoc Annual Hackathon 2021
+# Quill
+ This is a submission for the CSESoc Annual Hackathon 2021.
